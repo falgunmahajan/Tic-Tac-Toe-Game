@@ -1,0 +1,13 @@
+.cell{
+    height:100px;
+    font-size: 60px;
+}
+span{
+    font-size:25px;
+    margin-left:5px;
+}
+.active
+{
+    color:white;
+    background-color: blue;
+}
